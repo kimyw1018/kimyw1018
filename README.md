@@ -45,8 +45,3 @@ Here are some ideas to get you started:
 - **GitHub**: [@kimyw1018](https://github.com/kimyw1018)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjhwang0&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhwang0&layout=compact&theme=tokyonight" width="47%" />
-</p>
