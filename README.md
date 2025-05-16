@@ -16,26 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Kim Yewon</h1>
 <p align="center">
-  🎓 Soongsil Univ. CSE
+  SSU CSE 24
 </p>
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-</div>
-
----
-
-## 🛠 Projects
-
-
-## 🎓 Education
-
-- **Soongsil University**, Seoul, Korea  
-  Computer Science & Engineering (2024~)
 
 ---
 
