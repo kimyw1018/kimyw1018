@@ -14,20 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Kim Yewon</h1>
+
 <p align="center">
-  SSU CSE 24
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16a085&height=200&section=header&text=🦖%20Yewon%20🦖&fontSize=40&fontAlignY=40" />
 </p>
-<p align="center">
-  <a href="https://velog.io/@your-id" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Tyrannosaurus.svg" width="40" />
-  </a>
-  <a href="https://your-notion-link" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Tyrannosaurus.svg" width="40" />
-  </a>
-  <a href="https://instagram.com/your-id" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Tyrannosaurus.svg" width="40" />
-  </a>
+
+  SSU CSE 24
 </p>
 
 
