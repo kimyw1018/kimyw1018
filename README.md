@@ -18,6 +18,18 @@ Here are some ideas to get you started:
 <p align="center">
   SSU CSE 24
 </p>
+<p align="center">
+  <a href="https://velog.io/@your-id" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Tyrannosaurus.svg" width="40" />
+  </a>
+  <a href="https://your-notion-link" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Tyrannosaurus.svg" width="40" />
+  </a>
+  <a href="https://instagram.com/your-id" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Tyrannosaurus.svg" width="40" />
+  </a>
+</p>
+
 
 ---
 
@@ -26,6 +38,5 @@ Here are some ideas to get you started:
 - **Email**: poppppp00@gmail.com  
 - **GitHub**: [@kimyw1018](https://github.com/kimyw1018)
 - 안현정 사랑해
-- 
 
 ---
