@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=16a085&height=150&section=header&text=🦖%20Yewon%20🦖&fontSize=70&fontAlignY=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16a085&height=150&section=header&text=🦖%20Yewon%20🦖&fontSize=60&fontAlignY=40&fontColor=ffffff" />
 </p>
 
   SSU CSE 24
