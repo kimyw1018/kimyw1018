@@ -6,15 +6,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16a085&height=150&section=header&text=🦖%20Yewon%20🦖&fontSize=60&fontAlignY=40&fontColor=ffffff" />
 </p>
 
-<p align="center">
+<p>
   SSU CSE 24
 </p>
 
 ---
 
 ## ✉️ Contact
-<p align="center">
-  <a href="mailto:poppppp00@gmail.com">
+<p>
+  <a href="poppppp00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/kimyw1018">
@@ -25,7 +25,7 @@
 ---
 
 ## 📚 Tech Stack
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,11 +41,12 @@
   - 제휴 인증 앱
 
 ---
-
+<!--
 ## 📊 GitHub Stats & Languages
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyw1018&layout=compact&theme=radical" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=kimyw1018&show_icons=true&theme=radical" />
 </p>
+--!>
