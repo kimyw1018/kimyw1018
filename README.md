@@ -98,6 +98,6 @@ React + TypeScript 기반 영상 녹화·피드백 플랫폼. 웹캠 녹화, 캔
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimyw1018&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyw1018&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=kimyw1018&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=kimyw1018&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
